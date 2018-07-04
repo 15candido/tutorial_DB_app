@@ -23,5 +23,3 @@ Things you may want to cover:
 
 * ...
 # tutorial_DB_app
-# tutorial_DB_app
-# tutorial_DB_app
